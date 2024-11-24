@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="717dp"
+        android:text=" &lt;Button&#xA;                android:id=&quot;@+id/insertButton&quot;&#xA;                android:layout_width=&quot;wrap_content&quot;&#xA;                android:layout_height=&quot;wrap_content&quot;&#xA;                android:text=&quot;Insert Data&quot; />&#xA;&#xA;            &lt;Button&#xA;                android:id=&quot;@+id/readButton&quot;&#xA;                android:layout_width=&quot;wrap_content&quot;&#xA;                android:layout_height=&quot;wrap_content&quot;&#xA;                android:text=&quot;Read Data&quot; />&#xA;&#xA;            &lt;Button&#xA;                android:id=&quot;@+id/updateButton&quot;&#xA;                android:layout_width=&quot;wrap_content&quot;&#xA;                android:layout_height=&quot;wrap_content&quot;&#xA;                android:text=&quot;Update Data&quot; />&#xA;&#xA;            &lt;Button&#xA;                android:id=&quot;@+id/deleteButton&quot;&#xA;                android:layout_width=&quot;wrap_content&quot;&#xA;                android:layout_height=&quot;wrap_content&quot;&#xA;                android:text=&quot;Delete Data&quot; />&#xA;" />
+</LinearLayout>
